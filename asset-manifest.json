@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/.github.io/FAQs-online-security/static/css/main.1240ec51.css",
+    "main.js": "/.github.io/FAQs-online-security/static/js/main.3c65141d.js",
+    "index.html": "/.github.io/FAQs-online-security/index.html",
+    "main.1240ec51.css.map": "/.github.io/FAQs-online-security/static/css/main.1240ec51.css.map",
+    "main.3c65141d.js.map": "/.github.io/FAQs-online-security/static/js/main.3c65141d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1240ec51.css",
+    "static/js/main.3c65141d.js"
+  ]
+}
